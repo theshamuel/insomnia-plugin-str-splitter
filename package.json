@@ -1,0 +1,31 @@
+{
+  "name": "insomnia-plugin-str-splitter",
+  "version": "1.0.0",
+  "private": false,
+  "insomnia": {
+    "name": "str-splitter",
+    "description": ""
+  },
+  "main": "main.js",
+  "description": "Insomnia plugin for splitting string by delimeter in environment variables",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theshamuel/insomnia-plugin-str-splitter.git"
+  },
+  "keywords": [
+    "insomnia",
+    "string",
+    "split",
+    "delimeter",
+    "plugin"
+  ],
+  "author": "theshamuel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theshamuel/insomnia-plugin-str-splitter/issues"
+  },
+  "homepage": "https://github.com/theshamuel/insomnia-plugin-str-splitter#readme"
+}
